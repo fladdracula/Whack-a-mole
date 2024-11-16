@@ -7,7 +7,7 @@
 
 <div align="center">
 
-Play The Game : 
+Play The Game : https://smashamole.netlify.app/
 
 <img src='./assets/screenshot.png' id='header'/>
 
